@@ -4,7 +4,6 @@ const initialState = {
   start: false,
   success: false,
   product: [],
-  cart: [],
   fail: false,
   error: "",
 };
