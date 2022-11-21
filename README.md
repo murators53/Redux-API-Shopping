@@ -9,7 +9,7 @@
 5. REMOTE API </br>
 6. REDUX  </p> </br>
 6. SKELETON  </p> </br>
-6. JSON_SERVER(optional) </p> </br>
+7. JSON_SERVER(optional) </p> </br>
 
 <h3> Screen VIEW </h3> </br>
 
