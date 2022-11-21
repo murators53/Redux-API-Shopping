@@ -7,9 +7,9 @@
 3. REACT </br>
 4. REACT-ROUTER-DOM-6 </br>
 5. REMOTE API </br>
-6. REDUX  </p> </br>
-6. SKELETON  </p> </br>
-7. JSON_SERVER(optional) </p> </br>
+6. REDUX  </br>
+7. SKELETON  </br>
+8. JSON_SERVER(optional) </p> </br>
 
 <h3> Screen VIEW </h3> </br>
 
